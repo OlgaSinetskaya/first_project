@@ -24,3 +24,4 @@ Thumbs.db
 
 # Пользовательские исключения
 tmp_data.txt
+.env
